@@ -3,6 +3,13 @@
 ## Overview
 
 This repository contains a Jupyter Notebook (accessable via Google Colab or Download) for training a neural network and visualizing its performance metrics. The project provides a toolkit for conducting gradient descent optimization, tracking training progress, and plotting the evolution of weights and biases over time. No Keras, no PyTorch, no TensorFlow - just NumPy!
+<<<<<<< Updated upstream
+=======
+
+There are plenty of improvements that could be made to the model, but this was an exercise in understanding how deep learning models can be built using pure mathematics - having said that it impressively achieves ~90% prediction accuracy:
+
+![Prediction](images/prediction.PNG)
+>>>>>>> Stashed changes
 
 ## Features
 
@@ -10,6 +17,10 @@ This repository contains a Jupyter Notebook (accessable via Google Colab or Down
 - **Performance Tracking**: Logs accuracy and loss at regular intervals.
 - **Visualization Tools**: Plots training metrics, weights, and biases over iterations.
 - **Prediction and Testing**: Generates predictions and visualizes results for individual samples.
+
+Example outputs are presented here:
+
+![Training metrics](images/output.png)
 
 ## Requirements
 
