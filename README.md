@@ -20,7 +20,7 @@ This repository contains a Google Colab notebook for training a neural network a
 ## Usage
 
 1. **Open the Notebook in Colab**:
-    - [Open in Colab](https://colab.research.google.com/github/your-username/neural-network-training/blob/master/your-notebook-name.ipynb)
+    - [Open in Colab](https://colab.research.google.com/drive/1Biiwy6HHk1jdfxcWuIEVM3tfTHmqJCur?usp=sharing)
     - You'll be prompted to upload your Kaggle API token to your Colab environment to download the MINST dataset for this demo.
     - This token can be downloaded from your Kaggle account settings (Account tab, under the API section, you can create a new API token).
 
@@ -35,10 +35,13 @@ This repository contains a Google Colab notebook for training a neural network a
 
 5. **Evaluate and Test Predictions**:
     - Generate predictions and visualize them using the provided code cells.
+  
+Alternatively you can run the code locally:
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
+```bash
+git clone https://github.com/benjamin-hutchings/Neural-Net-Using-NumPy.git
+cd Neural-Net-Using-NumPy
+```
 
 ## License
 
