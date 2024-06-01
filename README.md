@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Google Colab notebook for training a neural network and visualizing its performance metrics. The project provides a toolkit for conducting gradient descent optimization, tracking training progress, and plotting the evolution of weights and biases over time. No Keras, no PyTorch, no TensorFlow - just NumPy!
+This repository contains a Jupyter Notebook (accessable via Google Colab or Download) for training a neural network and visualizing its performance metrics. The project provides a toolkit for conducting gradient descent optimization, tracking training progress, and plotting the evolution of weights and biases over time. No Keras, no PyTorch, no TensorFlow - just NumPy!
 
 ## Features
 
