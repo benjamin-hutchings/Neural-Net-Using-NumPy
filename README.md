@@ -19,9 +19,13 @@ Example outputs are presented here:
 
 ![Training metrics](images/output.png)
 
+![Training metrics](images/output1.png)
+
+![Training metrics](images/output2.png)
+
 ## Requirements
 
-- Google Colab
+- Google Colab / an IDE that can run a Juptyer notebook
 - NumPy
 - Matplotlib
 
@@ -44,7 +48,7 @@ Example outputs are presented here:
 5. **Evaluate and Test Predictions**:
     - Generate predictions and visualize them using the provided code cells.
   
-Alternatively you can run the code locally:
+Alternatively you can run the code locally (skip the setup stage as I have included a .zip with the dataset):
 
 ```bash
 git clone https://github.com/benjamin-hutchings/Neural-Net-Using-NumPy.git
